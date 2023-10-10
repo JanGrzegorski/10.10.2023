@@ -1,0 +1,11 @@
+1 Powtórka + switch case
+2 if else if
+3 Array- Tablice struktury złożone w C++
+
+Case -sprawa,przypadek 
+Break- przerwa w kodzie (przeciwieństwo continue)
+Int zawiera 4 bajty w pamięci RAM
+Adrez w pamięci RAM
+= - jest to operator przypisania w pamięci RAM
+== operator porównania 
+=== operator porownania wartości i typów miennej		
